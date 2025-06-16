@@ -1,7 +1,7 @@
 # Rai Game Studio - Portfolio Website
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Rai-Game-Studio/Rai-Game-Studio.github.io)
-![GitHub license](https://img.shields.io/github/license/Rai-Game-Studio/Rai-Game-Studio.github.io)
+![GitHub last commit](https://img.shields.io/github/last-commit/prai-git/infinitygames.github.io)
+![GitHub license](https://img.shields.io/github/license/prai-git/infinitygames.github.io)
 
 ## Overview
 
@@ -34,12 +34,12 @@ To run this website locally:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Rai-Game-Studio/Rai-Game-Studio.github.io.git
+   git clone https://github.com/prai-git/infinitygames.github.io.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd Rai-Game-Studio.github.io
+   cd infinitygames.github.io
    ```
 
 3. Open `index.html` in your web browser.
