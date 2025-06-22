@@ -20,6 +20,7 @@ This repository contains the code for the Rai Game Studio portfolio website. The
 - **Tic Tac Toe (3T)**: Classic implementation with background music and scoring
 - **Tank Attack 3 (TATH)**: 2D arcade-style battle game with power-ups
 - **Tejas Thrust**: Single-player dogfight game for kids aged 5-12
+- **Zapper**: A simple archery game built with Python and Pygame where players aim and shoot arrows at a moving target
 
 ## Technologies Used
 
@@ -70,4 +71,8 @@ This project is licensed under the terms included in the [LICENSE](LICENSE) file
 ---
 
 © 2025 Rai Game Studio. Last updated: May 30, 2025
+
+## Author
+
+**Praveen Rai & Krishang Rai**
 
